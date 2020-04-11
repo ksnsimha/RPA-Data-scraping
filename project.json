@@ -1,7 +1,7 @@
 {
   "name": "BlankProcess",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Web data capturing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.2-preview]",
     "UiPath.Mail.Activities": "[1.8.2-preview]",
